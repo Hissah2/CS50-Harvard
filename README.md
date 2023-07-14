@@ -51,7 +51,7 @@ A personal blog with a forum work service in which personal information, experie
 
 Course registration link CS50
 
-https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?utm_source=google&utm_campaign=19339199037&utm_medium=cpc&utm_term=cs50&hsa_acc=7245054034&hsa_cam=19339199037&hsa_grp=145482383700&hsa_ad=642397268536&hsa_src=g&hsa_tgt=kwd-297465618&hsa_kw=cs50&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw5MOlBhBTEiwAAJ8e1jPhlTI4IF89YB5Pf8xUa5-xBlvr134KniSRiyvvoplSVq2WSng2cRoCFoUQAvD_BwE
+https://pll.harvard.edu/course/cs50-introduction-computer-science
 
 Anvea channel (One of the most useful channels for me)
 
