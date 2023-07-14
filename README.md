@@ -2,7 +2,7 @@
 
 ## certification
 
-
+![IMG_0347](https://github.com/Hissah2/CS50-Harvard/assets/124397723/b72eebb7-f638-40cf-8e14-0d5ab60ae116)
 
 ## What is the CS50 course?
 
