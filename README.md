@@ -30,7 +30,7 @@ Week 10 Emoji (everything about emoji)
 
 ## My personal opinion
 
-Thank God, I finished a course of the most enjoyable and enriched courses that I have entered in my life, especially the quality of the content of sound, image, order and clarity required in duties and projects. I must mention the main reason that motivated me to finish the course in record time, which is Professor David Malan, I mean, it is normal, a lecture of two hours
+Thank God, I finished a course of the most enjoyable and enriched courses that I have entered in my life, especially the quality of the content of sound, image, order and clarity required in duties and projects. I must mention the main reason that motivated me to finish the course in record time, which is Professor David Malan, I mean, it's normal, a lecture for two hours, suddenly it ends without feeling, he has a charisma and a way to explain, I didn't see like it. I learned a lot of this course, especially the last lectures were fat because they have a link to more than one topic such as a database to the Web. I strongly recommend to any technical person,
 
 ## Some of the personal projects
 
