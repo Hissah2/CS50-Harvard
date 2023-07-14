@@ -12,7 +12,7 @@ Week 1 C (Introduction to C)
 
 Week 2 Arrays (Matrixes)
 
-Week 3 Algorithms (Algorithms and Search Methods)
+Week 3 Algorithms (Algorithms & Search Methods)
 
 Week 4 Memory (Memory)
 
